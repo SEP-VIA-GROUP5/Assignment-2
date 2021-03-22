@@ -1,6 +1,6 @@
 import javafx.application.Application;
 
-public class ExerciseMain //sdfdsfsd
+public class ExerciseMain 
 {
   public static void main(String[] args)
   {
